@@ -47,7 +47,7 @@ Add **`etsql`** to your `mix.exs` dependencies:
 ```elixir
 def deps do
   [
-    {:etsql, github: "elchemista/etsql", branch: "master"}
+    {:etsql, github: "elchemista/etsql", branch: "main"}
   ]
 end
 ```
