@@ -10,7 +10,7 @@ statements:
 That’s it—no dependencies, no macros, just a pinch of regex and pattern
 matching.
 
-** This is a work in progress. **
+## **This is a work in progress.**
 
 Why? I'm just tired writing ETS match structures and I want something simpler that everyone knows.
 It just become too much work to write the match structures by hand.
